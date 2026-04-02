@@ -5,7 +5,6 @@
 
 > Pull Requests are highly recommended and appreciated. 🙌
 
----
 
 > 💡 **Note:** All solutions in this repo are written in **JavaScript** — perfect for MERN Stack developers preparing for interviews. The concepts apply to any language.
 
