@@ -4110,8 +4110,8 @@ Found a bug, have a better explanation, or want to add a missing question?
 | ------ | ---------- |
 | ✅ Live | [react-interview-questions](https://github.com/sisi-tarak/react-interview-questions) |
 | ✅ Live | [mern-interview-questions](https://github.com/sisi-tarak/mern-interview-questions) |
+| ✅ Live | [nodejs-interview-questions](https://github.com/sisi-tarak/nodejs-interview-questions) |
 | ✅ Live | [dsa-interview-questions](https://github.com/sisi-tarak/dsa-interview-questions) |
-| 🔜 Coming | nodejs-interview-questions |
 | 🔜 Coming | java-interview-questions |
 | 🔜 Coming | python-interview-questions |
 
