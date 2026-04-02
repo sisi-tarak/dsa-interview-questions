@@ -4073,20 +4073,18 @@ Must know (non-negotiable):
 **[⬆ Back to Top](#table-of-contents)**
 
 <br>
-
----
+<br>
 
 <div align="center">
 
 ## 🎉 You've covered all 100 DSA Interview Questions!
 
----
 
 **If this repo helped your interview prep, please give it a ⭐**
 
 [![Star this repo](https://img.shields.io/github/stars/sisi-tarak/dsa-interview-questions?style=social)](https://github.com/sisi-tarak/dsa-interview-questions)
 
----
+<br>
 
 ### 📲 Follow Sisi for more tech interview prep content
 
